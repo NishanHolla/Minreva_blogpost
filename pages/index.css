@@ -1,0 +1,45 @@
+#title:focus::placeholder{
+    outline:none;
+    color:transparent;
+}
+
+#title:focus{
+    outline:none;
+}
+
+#title::placeholder{
+    color:black;
+    font-style: italic;        
+    font-size: 20px;
+}
+
+#author:focus::placeholder{
+    outline:none;
+    color:transparent;
+}
+
+#author:focus{
+    outline:none;
+}
+
+#author::placeholder{
+    color:black;
+    font-style: italic;        
+    font-size: 20px;
+}
+
+#genre:focus::placeholder{
+    outline:none;
+    color:transparent;
+}
+
+#genre:focus{
+    outline:none;
+    background: transparent;
+}
+
+#genre::placeholder{
+    color:black;
+    font-style: italic;        
+    font-size: 20px;
+}
