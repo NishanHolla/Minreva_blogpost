@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import axios from 'axios';
 
 export default function Default(){
     const [content0 , setContent0] = useState('loading ...');
